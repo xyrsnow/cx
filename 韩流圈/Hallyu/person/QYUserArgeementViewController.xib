@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="5056" systemVersion="13E28" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment defaultVersion="1552" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="3733"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="QYUserArgeementViewController">
+            <connections>
+                <outlet property="textview" destination="taO-gj-X1J" id="LU8-WL-08e"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="taO-gj-X1J">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    <mutableString key="text">在您决定注册成为韩流圈的用户前，请认真阅读本协议，一经完成注册程序，即视为您已同意接受本协议的所有内容。
+
+一、用户账号
+1、韩流圈账号的所有权归韩流圈，用户完成注册申请手续后获得韩流圈账号的使用权。 
+2、如发现用户账号中含有不雅文字或不恰当名称的, 韩流圈保留注销其用户账号的权利。 
+3、注册账号时请提供详尽准确的个人资料，如因注册信息不真实而引起的问题，病对问题发生所带来的后果，韩流圈不负任何责任。
+4、用户不应将其帐号、密码转让、出售或出借予他人使用，若用户授权他人使用账户，应对被授权人在该账户下发生所有行为负全部责任
+
+二、使用规则
+1、用户在使用韩流圈服务时，必须遵守中华人民共和国相关法律法规的规定，不得利用韩流圈服务制作、上载、复制、发布、传播或转载如下内容：
+       1）反对宪法所确定的基本原则的；
+       2）危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的；
+       3）损害国家荣誉和利益的；
+       4）煽动民族仇恨、民族歧视，破坏民族团结的；
+       5）破坏国家宗教政策，宣扬邪教和封建迷信的；
+       6）散布谣言，扰乱社会秩序，破坏社会稳定的；
+       7）散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的；
+       8）侮辱或者诽谤他人，侵害他人合法权益的；
+       9）含有法律、行政法规禁止的其他内容的信息。
+如违反任何上述规定，韩流圈有权要求用户改正或直接采取一切必要的措施（包括但不限于更改或删除用户张贴的内容等、暂停或终止用户使用网络服务的权利）以减轻用户不当行为造成的影响，并且依据法律法规保存有关信息并向有关部门报告等。
+
+2、用户在韩流圈发布的任何内容并不反映韩流圈的观点或政策, 韩流圈对此不承担任何责任。用户须对上述内容的真实性、合法性、无害性、有效性等全权负责, 与用户所发布信息相关的任何法律责任由用户自行承担, 与韩流圈无关。
+
+3、对于用户通过韩流圈网络服务上传的公开内容, 用户同意韩流圈在全世界范围内具有免费的、永久性的、不可撤销的、非独家的和完全再许可的权利和许可, 以使用、复制、修改、改编、出版、翻译、据以创作衍生作品、传播、表演和展示此等内容(整体或部分)。
+
+三、服务内容
+
+网络服务的具体内容由韩流圈根据实际情况提供, 除非本协议另有其他明示规定，韩
+流圈所推出的新功能和新服务均受本协议之规范。
+
+2、与韩流圈网络服务有关的设备(如个人电脑、手机、及其他与接入互联网或移动网有关的装置)及所需的费用(如为接入互联网而支付的电话费及上网费、为使用移动网而支付的手机费)均应由用户自行负担。
+3、对于6个月未登陆的帐号，韩流圈保留关闭的权利。
+4. 流圈需要定期或不定期地对提供网络服务的平台或相关设备进行检修和维护，如因此类情况而造成的网络服务中断，韩流圈无需为此承担任何责任。
+5．韩流圈有权于任何时间暂时或永久修改或终止部分或全部的网络服务，而无论其通知与否，韩流圈对用户和任何第三人均无需承担任何责任。
+
+
+四、版权声明
+韩流圈提供的网络服务中包含的任何文本、图片、图形、音频和/或视频资料均受版权、商标和/或其它财产所有权法律的保护, 未经相关权利人同意, 上述资料均不得在任何媒体直接或间接发布、播放、出于播放或发布目的而改写或再发行, 或者被用于其他任何商业目的。所有以上资料或资料的任何部分仅可作为私人和非商业用途保存。韩流圈不就由上述资料产生或在传送或递交全部或部分上述资料过程中产生的延误、不准确、错误和遗漏或从中产生或由此产生的任何损害赔偿, 以任何形式, 向用户或任何第三方负责。
+
+五、隐私保护
+韩流圈保证不对外公开或向第三方提供用户的注册资料及用户在使用网络服务时存储在韩流圈内的非公开内容, 但下列情况除外:
+
+1、事先获得用户的书面明确授权; 
+2、根据有关的法律法规要求; 
+3、按照相关政府主管部门的要求; 
+4、为维护社会公众的利益; 
+5、为维护韩流圈的合法权益;
+
+韩流圈可能会与第三方合作向用户提供相关的网络服务，在此情况下，如该第三方同意承担与韩流圈同等的保护用户隐私的责任，则韩流圈有权将用户的注册资料等提供给该第三方。
+在不透露单个用户隐私资料的前提下，韩流圈有权对整个用户数据库进行分析并对用户数据库进行商业上的利用。
+
+六、其他
+1、本协议的订立、执行和解释及争议的解决均应适用中华人民共和国法律。
+2、如双方就本协议内容或其执行发生任何争议，双方应尽量友好协商解决；协商不成时，任何一方均可向韩流圈所在地的人民法院提起诉讼。
+3、韩流圈未行使或执行本服务协议任何权利或规定，不构成对前述权利或权利之放弃。
+4、如本协议中的任何条款无论因何种原因完全或部分无效或不具有执行力，本协议的其余条款仍应有效并且有约束力。</mutableString>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                </textView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <simulatedStatusBarMetrics key="simulatedStatusBarMetrics"/>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+        </view>
+    </objects>
+</document>
