@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EEDC6F03-22DA-4C01-86FC-2AE715CDDDF1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AFNetworking－samples</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4166337BAA781A028C2E2BA9837FAE8FB9C9A516</key>
+		<string>ssh://192.168.1.111/Users/qingyun/Desktop/%E4%B8%B2%E8%AE%B2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>网络知识点/AFNetworking－samples/AFNetworking－samples.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4166337BAA781A028C2E2BA9837FAE8FB9C9A516</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://192.168.1.111/Users/qingyun/Desktop/%E4%B8%B2%E8%AE%B2</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4166337BAA781A028C2E2BA9837FAE8FB9C9A516</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4166337BAA781A028C2E2BA9837FAE8FB9C9A516</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E4%B8%B2%E8%AE%B2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
