@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>主席好!!!</string>
+		<key>time</key>
+		<string>21:11</string>
+		<key>person</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>啥事快说!</string>
+		<key>time</key>
+		<string>21:20</string>
+		<key>person</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>主席,看你近来气色不错.身体好,胃口也好.那么,问题来了: 主席现在体重多少啊?</string>
+		<key>time</key>
+		<string>21:23</string>
+		<key>person</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>88</string>
+		<key>time</key>
+		<string>21:23</string>
+		<key>person</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>哎.别走啊,我不问了!</string>
+		<key>time</key>
+		<string>21:23</string>
+		<key>person</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>我说88!!!</string>
+		<key>time</key>
+		<string>21:25</string>
+		<key>person</key>
+		<integer>0</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>好吧. 886</string>
+		<key>time</key>
+		<string>21:25</string>
+		<key>person</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>.......</string>
+		<key>time</key>
+		<string>21:26</string>
+		<key>person</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>
